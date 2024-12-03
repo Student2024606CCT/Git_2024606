@@ -10,7 +10,7 @@ public class Git2024606 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Asafe - 2024606");
     }
     
 }
